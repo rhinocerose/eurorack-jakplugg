@@ -1,0 +1,60 @@
+[submodule "eurorack-jakplugg-utidesii"]
+	path = eurorack-jakplugg-utidesii
+	url = git@git-rhino:rhinocerose/eurorack-jakplugg-utidesii
+[submodule "eurorack-jakplugg-utest"]
+	path = eurorack-jakplugg-utest
+	url = git@git-rhino:rhinocerose/eurorack-jakplugg-utest
+[submodule "eurorack-jakplugg-uo_c"]
+	path = eurorack-jakplugg-uo_c
+	url = git@git-rhino:rhinocerose/eurorack-jakplugg-uo_c
+[submodule "eurorack-jakplugg-ugrids"]
+	path = eurorack-jakplugg-ugrids
+	url = git@git-rhino:rhinocerose/eurorack-jakplugg-ugrids
+[submodule "eurorack-jakplugg-uburst"]
+	path = eurorack-jakplugg-uburst
+	url = git@git-rhino:rhinocerose/eurorack-jakplugg-uburst
+[submodule "eurorack-jakplugg-ubraidsii"]
+	path = eurorack-jakplugg-ubraidsii
+	url = git@git-rhino:rhinocerose/eurorack-jakplugg-ubraidsii
+[submodule "eurorack-jakplugg-typhoon"]
+	path = eurorack-jakplugg-typhoon
+	url = git@git-rhino:rhinocerose/eurorack-jakplugg-typhoon
+[submodule "eurorack-jakplugg-twist"]
+	path = eurorack-jakplugg-twist
+	url = git@git-rhino:rhinocerose/eurorack-jakplugg-twist
+[submodule "eurorack-jakplugg-twiigs"]
+	path = eurorack-jakplugg-twiigs
+	url = git@git-rhino:rhinocerose/eurorack-jakplugg-twiigs
+[submodule "eurorack-jakplugg-threshold"]
+	path = eurorack-jakplugg-threshold
+	url = git@git-rhino:rhinocerose/eurorack-jakplugg-threshold
+[submodule "eurorack-jakplugg-t_u"]
+	path = eurorack-jakplugg-t_u
+	url = git@git-rhino:rhinocerose/eurorack-jakplugg-t_u
+[submodule "eurorack-jakplugg-quarks"]
+	path = eurorack-jakplugg-quarks
+	url = git@git-rhino:rhinocerose/eurorack-jakplugg-quarks
+[submodule "eurorack-jakplugg-plancksii"]
+	path = eurorack-jakplugg-plancksii
+	url = git@git-rhino:rhinocerose/eurorack-jakplugg-plancksii
+[submodule "eurorack-jakplugg-pique"]
+	path = eurorack-jakplugg-pique
+	url = git@git-rhino:rhinocerose/eurorack-jakplugg-pique
+[submodule "eurorack-jakplugg-pachinko"]
+	path = eurorack-jakplugg-pachinko
+	url = git@git-rhino:rhinocerose/eurorack-jakplugg-pachinko
+[submodule "eurorack-jakplugg-nrings"]
+	path = eurorack-jakplugg-nrings
+	url = git@git-rhino:rhinocerose/eurorack-jakplugg-nrings
+[submodule "eurorack-jakplugg-monsoon"]
+	path = eurorack-jakplugg-monsoon
+	url = git@git-rhino:rhinocerose/eurorack-jakplugg-monsoon
+[submodule "eurorack-jakplugg-m-brane"]
+	path = eurorack-jakplugg-m-brane
+	url = git@git-rhino:rhinocerose/eurorack-jakplugg-m-brane
+[submodule "eurorack-jakplugg-beehive"]
+	path = eurorack-jakplugg-beehive
+	url = git@git-rhino:rhinocerose/eurorack-jakplugg-beehive
+[submodule "eurorack-jakplugg-Alps"]
+	path = eurorack-jakplugg-Alps
+	url = git@git-rhino:rhinocerose/eurorack-jakplugg-Alps
