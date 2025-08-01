@@ -21,7 +21,7 @@
 	url = git@git-rhino:rhinocerose/eurorack-jakplugg-typhoon
 [submodule "eurorack-jakplugg-twist"]
 	path = eurorack-jakplugg-twist
-	url = git@git-rhino:rhinocerose/eurorack-jakplugg-twist
+	url = https://github.com/rhinocerose/eurorack-jakplugg-twist
 [submodule "eurorack-jakplugg-twiigs"]
 	path = eurorack-jakplugg-twiigs
 	url = git@git-rhino:rhinocerose/eurorack-jakplugg-twiigs
@@ -79,3 +79,36 @@
 [submodule "eurorack-jakplugg-Quarks"]
 	path = eurorack-jakplugg-Quarks
 	url = https://github.com/rhinocerose/eurorack-jakplugg-Quarks
+[submodule "eurorack-jakplugg-T_u"]
+	path = eurorack-jakplugg-T_u
+	url = https://github.com/rhinocerose/eurorack-jakplugg-T_u
+[submodule "eurorack-jakplugg-Threshold"]
+	path = eurorack-jakplugg-Threshold
+	url = https://github.com/rhinocerose/eurorack-jakplugg-Threshold
+[submodule "eurorack-jakplugg-Twiigs"]
+	path = eurorack-jakplugg-Twiigs
+	url = https://github.com/rhinocerose/eurorack-jakplugg-Twiigs
+[submodule "eurorack-jakplugg-Typhoon"]
+	path = eurorack-jakplugg-Typhoon
+	url = https://github.com/rhinocerose/eurorack-jakplugg-Typhoon
+[submodule "eurorack-jakplugg-uBraidsII"]
+	path = eurorack-jakplugg-uBraidsII
+	url = https://github.com/rhinocerose/eurorack-jakplugg-uBraidsII
+[submodule "eurorack-jakplugg-uGrids"]
+	path = eurorack-jakplugg-uGrids
+	url = https://github.com/rhinocerose/eurorack-jakplugg-uGrids
+[submodule "eurorack-jakplugg-uBurst"]
+	path = eurorack-jakplugg-uBurst
+	url = https://github.com/rhinocerose/eurorack-jakplugg-uBurst
+[submodule "eurorack-jakplugg-uO_c"]
+	path = eurorack-jakplugg-uO_c
+	url = https://github.com/rhinocerose/eurorack-jakplugg-uO_c
+[submodule "eurorack-jakplugg-uStreams"]
+	path = eurorack-jakplugg-uStreams
+	url = https://github.com/rhinocerose/eurorack-jakplugg-uStreams
+[submodule "eurorack-jakplugg-uTest"]
+	path = eurorack-jakplugg-uTest
+	url = https://github.com/rhinocerose/eurorack-jakplugg-uTest
+[submodule "eurorack-jakplugg-utidesII"]
+	path = eurorack-jakplugg-utidesII
+	url = https://github.com/rhinocerose/eurorack-jakplugg-utidesII
