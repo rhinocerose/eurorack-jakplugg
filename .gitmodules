@@ -54,7 +54,28 @@
 	url = git@git-rhino:rhinocerose/eurorack-jakplugg-m-brane
 [submodule "eurorack-jakplugg-beehive"]
 	path = eurorack-jakplugg-beehive
-	url = git@git-rhino:rhinocerose/eurorack-jakplugg-beehive
+	url = https://github.com/rhinocerose/eurorack-jakplugg-beehive
 [submodule "eurorack-jakplugg-Alps"]
 	path = eurorack-jakplugg-Alps
-	url = git@git-rhino:rhinocerose/eurorack-jakplugg-Alps
+	url = https://github.com/rhinocerose/eurorack-jakplugg-Alps
+[submodule "eurorack-jakplugg-m-Brane"]
+	path = eurorack-jakplugg-m-Brane
+	url = https://github.com/rhinocerose/eurorack-jakplugg-m-Brane
+[submodule "eurorack-jakplugg-Monsoon"]
+	path = eurorack-jakplugg-Monsoon
+	url = https://github.com/rhinocerose/eurorack-jakplugg-Monsoon
+[submodule "eurorack-jakplugg-nRings"]
+	path = eurorack-jakplugg-nRings
+	url = https://github.com/rhinocerose/eurorack-jakplugg-nRings
+[submodule "eurorack-jakplugg-Pachinko"]
+	path = eurorack-jakplugg-Pachinko
+	url = https://github.com/rhinocerose/eurorack-jakplugg-Pachinko
+[submodule "eurorack-jakplugg-Pique"]
+	path = eurorack-jakplugg-Pique
+	url = https://github.com/rhinocerose/eurorack-jakplugg-Pique
+[submodule "eurorack-jakplugg-plancksII"]
+	path = eurorack-jakplugg-plancksII
+	url = https://github.com/rhinocerose/eurorack-jakplugg-plancksII
+[submodule "eurorack-jakplugg-Quarks"]
+	path = eurorack-jakplugg-Quarks
+	url = https://github.com/rhinocerose/eurorack-jakplugg-Quarks
